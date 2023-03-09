@@ -44,3 +44,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebonato&show_icons=true&theme=dark&locale=en" alt="ebonato" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebonato&theme=dark" alt="ebonato" /></p>
+<p><img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ebonato&bg=21262d" alt="ebonato" /></p>
+<p><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ebonato&labels=true" alt="ebonato" /></p>
+
+
+
+<codersrank-skills-chart username="ebonato"></codersrank-skills-chart>
