@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebonato&show_icons=true&theme=dark&locale=en" alt="ebonato" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebonato&theme=dark" alt="ebonato" /></p>
-<p><img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ebonato&bg=21262d" alt="ebonato" /></p>
+<p><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ebonato&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="ebonato" /></p>
+<p><img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ebonato" alt="ebonato" /></p>
 <p><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ebonato&labels=true" alt="ebonato" /></p>
 
 
