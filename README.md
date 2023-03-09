@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ebonato" target="blank"><img src="https://img.shields.io/twitter/follow/ebonato?logo=twitter&style=for-the-badge" alt="ebonato" /></a> </p>
 
-- 🔭 I’m currently working on [Publi Manager](www.publi.com.br)
+- 🔭 I’m currently working on [Publi Manager](https://www.publi.com.br)
 
 - 💬 Ask me about **ANYTHING**
 
